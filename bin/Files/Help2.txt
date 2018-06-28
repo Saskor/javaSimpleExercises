@@ -1,0 +1,19 @@
+  Western Australia.
+  Perth,
+  Bruce Evans,
+  Designed and made by:
+  Year: 2017
+  Version 1.1
+instead.
+be switched to sinewave or triangle / sawtooth
+the output can
+be easily produced if desired. Additionally,
+allows any number of sharp steps in the wave to
+feature
+connected via the USB port. A "stepped" wave
+Arduino Due,
+edited, saved, opened and uploaded to the
+New arbitrary waves can be drawn,
+Waveform Generator.
+Arduino Due Arbitrary
+This is the controller for the

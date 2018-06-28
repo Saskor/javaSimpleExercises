@@ -1,0 +1,19 @@
+This is the controller for the
+Arduino Due Arbitrary
+Waveform Generator.
+New arbitrary waves can be drawn,
+edited, saved, opened and uploaded to the
+Arduino Due,
+connected via the USB port. A "stepped" wave
+feature
+allows any number of sharp steps in the wave to
+be easily produced if desired. Additionally,
+the output can
+be switched to sinewave or triangle / sawtooth
+instead.
+  Version 1.1
+  Year: 2017
+  Designed and made by:
+  Bruce Evans,
+  Perth,
+  Western Australia.
